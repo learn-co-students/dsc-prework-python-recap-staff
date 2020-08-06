@@ -1,12 +1,24 @@
-
-# Getting Started with Data Science - Recap
+# Data Science Prework - Python - Recap
 
 ## Introduction
 
-In this section, you learned about the Data Science process as well as the fundamentals of Python. You started off with learning about the basic Python data types as well as variable assignment. After that, you worked with collections of these basic data types, learning about lists and dictionaries. Finally, you learned about data visualization and used `matplotlib` to create some bar charts, histograms, and scatter plots. 
+In this section, you learned the fundamentals of Python! As you continue your Data Science journey, programming will continue to be one of the most important components of your toolkit.
+
 
 ## Key Takeaways
 
-- There is a lot to learn about Data Science, but most of the time you're predicting a continuous value (regression), predicting a category (classification), identifying unusual data (anomaly detection) or generating recommendations.
-- Data Science is not just about selecting and tuning machine learning models. Much of the value comes from understanding the business needs and formulating the problem thoughtfully. And most of the effort is in the early stages of finding, cleaning, exploring, and simplifying the data so it's ready to be run against your models. 
-- It's important to use professional tools. Jupyter Notebook is a great environment for combining your notes and your code. Git allows you to keep track of your changes. GitHub allows to share them with your team. Conda virtual environments ensure that the libraries you use for one project won't break another project you were working on.
+* **Data Types** - Data types are an essential part of programming. They allow computers to differentiate between different types of information and provide useful methods for manipulating data according to their type. 
+
+* **Variables** - Variables allow us to label data so that programmers can easily identify what the data represents. Variables also allow us to store data into memory and use the saved data in future lines of code. 
+
+* **Conditionals** - When writing code, we are writing instructions. Conditionals allow us to write flexible instructions so that depending on the the situation, different code is activated. 
+
+* **Collections** - With collections, we are able to organize our data into structures for efficient manipulation and extraction of information. With lists we can store multiple data points within a single, index ordered, variable. With dictionaries, we are able to organize our data into different labeled categories. 
+
+* **Visualization** - `matplotlib` allows us to better understand our data with the creation of bar charts, histograms, and scatter plots.
+
+* **Functions and Methods** - Python has a range of functions and methods (methods are functions associated with an object) that can help us to perform a wide range of useful tasks quickly and efficiently.
+
+* **Loops** - Loops aren't only for collections. `while` loops allow us to iterate until a condition is met, and we can use nested loops for more complicated situations (but should be careful about doing so too often).
+
+* **Custom Functions** - When you write a piece of code that you might want to use again, it often makes sense to save it in as a function, and you can add arguments to functions to allow them to be more flexible in the ways they're reused.
