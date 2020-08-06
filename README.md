@@ -11,7 +11,7 @@ In this section, you learned the fundamentals of Python! As you continue your Da
 
 * **Variables** - Variables allow us to label data so that programmers can easily identify what the data represents. Variables also allow us to store data into memory and use the saved data in future lines of code. 
 
-* **Conditionals** - When writing code, we are writing instructions. Conditionals allow us to write flexible instructions so that depending on the the situation, different code is activated. 
+* **Conditionals** - When writing code, we are writing instructions. Conditionals allow us to write flexible instructions so that depending on the situation, different code is activated. 
 
 * **Collections** - With collections, we are able to organize our data into structures for efficient manipulation and extraction of information. With lists we can store multiple data points within a single, index ordered, variable. With dictionaries, we are able to organize our data into different labeled categories. 
 
@@ -21,4 +21,9 @@ In this section, you learned the fundamentals of Python! As you continue your Da
 
 * **Loops** - Loops aren't only for collections. `while` loops allow us to iterate until a condition is met, and we can use nested loops for more complicated situations (but should be careful about doing so too often).
 
-* **Custom Functions** - When you write a piece of code that you might want to use again, it often makes sense to save it in as a function, and you can add arguments to functions to allow them to be more flexible in the ways they're reused.
+* **Custom Functions** - When you write a piece of code that you might want to use again, it often makes sense to save it as a function, and you can add arguments to functions to allow them to be more flexible in the ways they're reused.
+
+
+```python
+
+```
