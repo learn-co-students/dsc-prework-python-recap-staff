@@ -1,4 +1,4 @@
-# Data Science Prework - Python - Recap
+# Python Fundamentals - Recap
 
 ## Introduction
 
