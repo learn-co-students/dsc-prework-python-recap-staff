@@ -1,9 +1,9 @@
-
 # Data Science Prework - Python - Recap
 
 ## Introduction
 
 In this section, you learned the fundamentals of Python! As you continue your Data Science journey, programming will continue to be one of the most important components of your toolkit.
+
 
 ## Key Takeaways
 
@@ -22,4 +22,3 @@ In this section, you learned the fundamentals of Python! As you continue your Da
 * **Loops** - Loops aren't only for collections. `while` loops allow us to iterate until a condition is met, and we can use nested loops for more complicated situations (but should be careful about doing so too often).
 
 * **Custom Functions** - When you write a piece of code that you might want to use again, it often makes sense to save it in as a function, and you can add arguments to functions to allow them to be more flexible in the ways they're reused.
-
